@@ -9,9 +9,24 @@ colors */
 
 .info{
   background: #FDFDFD;
-
+  
 }
 
 body{
   font-family: 'Roboto', sans-serif;
+}
+
+.primary-color{
+  color: #C35228;
+}
+
+.info h2{
+  word-spacing : 0.6rem;
+}
+.info a {
+  transition: color 1s ease-in-out 1s;
+
+}
+.info a:hover{
+   color: #9FA26C;
 }
