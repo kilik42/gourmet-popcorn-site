@@ -7,4 +7,11 @@ baby powder  #FDFDFD
 
 colors */
 
-body{font-family: 'Roboto', sans-serif;}
+.info{
+  background: #FDFDFD;
+
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
