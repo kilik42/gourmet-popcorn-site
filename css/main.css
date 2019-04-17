@@ -6,10 +6,10 @@ charleston green #2B2C27
 baby powder  #FDFDFD
 
 colors */
-
+/* top bar */
 .info{
   background: #FDFDFD;
-  
+
 }
 
 body{
@@ -24,9 +24,11 @@ body{
   word-spacing : 0.6rem;
 }
 .info a {
-  transition: color 1s ease-in-out 1s;
+  transition: color .5s ease-in-out ;
 
 }
 .info a:hover{
    color: #9FA26C;
 }
+/* end top bar */
+/* ###################################### */
