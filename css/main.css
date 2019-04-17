@@ -36,8 +36,13 @@ body{
 
 /* header section */
 #header{
-  background:url('../images/background-bucket-cinema-1230988.jpg');
-  
+  background:url('../images/cinema-food-movie-theater-33129.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: calc(100vh - 94px);
+  min-width: 100vh;
+
+
 }
 
 
