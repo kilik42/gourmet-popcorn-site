@@ -227,7 +227,7 @@ body{
   position: relative;
 }
 .special-text{
-  position: absolulte;
+  position: absolute;
   top: 0;
   right: 10%;
   background: #d3325f;
