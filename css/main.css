@@ -18,7 +18,7 @@ body{
   font-family: 'Roboto', sans-serif;
 
   color: #c9c1ac;
-  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/B77CD492-.jpg) center/cover fixed no-repeat;
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/lynda-sanchez-1334221-unsplash.jpg) center/cover fixed no-repeat;
 }
 
 .primary-color{
@@ -41,7 +41,7 @@ body{
 
 /* header section */
 #header{
-  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../images/cinema-food-movie-theater-33129.jpg');
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../images/B77CD492-.jpg');
 
   background-size: cover;
   background-repeat: no-repeat;
