@@ -15,8 +15,8 @@ colors */
 }
 
 body{
-  font-family: 'Roboto', sans-serif;
-
+  /* font-family: 'Roboto', sans-serif; */
+   font-family: 'Allura', cursive;
   color: #c9c1ac;
   background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/lynda-sanchez-1334221-unsplash.jpg) center/cover fixed no-repeat;
 }
