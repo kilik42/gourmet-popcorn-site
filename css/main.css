@@ -236,8 +236,25 @@ body{
 
 
 
-
-
-
-
 /* ################ end menu items###################### */
+
+.about-pictures{
+  position: relative;
+}
+.about-image{
+  position: absolute;
+  width: 150px;
+  transition: all 2s ease;
+  opacity: 0.9;
+}
+.img-1{
+  left: 0%;
+  top: 0%;
+
+}
+
+.img-2{
+  left: 20%;
+  top: 20%;
+  z-index: 10;
+}
