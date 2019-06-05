@@ -324,5 +324,10 @@ body{
 
 .height-60{
   min-height: 60vh;
+
+}
+#contact .card{
+  background: rgba(0,0,0, 0.5);
+  transition: all 2s ease;
   
 }
