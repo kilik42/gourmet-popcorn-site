@@ -21,6 +21,17 @@ $(window).scroll(function(){
 })
 
 
+//smooth scroll
+$('.nav-item a, .header-link, #back-to-top').click(function(link){
+  link.preventDefault();
+
+  let target = $(this).attr('href');
+
+  $('html, body').animate({
+    scrollTop: $(target).offset().top - 25
+  }, 1500);
+})
+
 
 
 
