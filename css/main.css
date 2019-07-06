@@ -25,8 +25,39 @@ body{
 
 .primary-color{
   color: #C35228;
+
 }
 
+.marqueeDarkYellow{
+
+  color: #FEFFDB;
+  font-weight: bold;
+  font-family: 'Allura', cursive;
+  text-align:center;
+}
+
+.main-btn2{
+
+  font-size: 2rem;
+  border: 2px solid #d3325f;
+  padding: .08rem 3rem;
+  border-radius:10px;
+  background-color: #f0ce11;
+  box-shadow: 5px 4px 8px #888888;
+  /* transition: all 1s ease-in-out; */
+
+}
+.popMarqee{
+    color: #fff;
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:800;
+
+text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+
+}
 .info h2{
   word-spacing : 0.6rem;
 }
