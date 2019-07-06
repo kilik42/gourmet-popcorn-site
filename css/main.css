@@ -12,6 +12,7 @@ colors */
 /*   background: #FDFDFD; */
   /* background: #F4D58D; */
   background: #F2EBA7;
+
 }
 
 body{
@@ -21,16 +22,17 @@ body{
   font-family: 'Montserrat', sans-serif;
   color: #c9c1ac;
   background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/lynda-sanchez-1334221-unsplash.jpg) center/cover fixed no-repeat;
+  overflow-x: hidden;
 }
 
-/* .container-fluid {
+ .container-fluid {
     padding-right:0;
     padding-left:0;
-    margin-right:auto;
-    margin-left:auto
- } */
+    margin-right:0;
+    margin-left:0;
+ }
 
- *{margin:0;padding:0}
+/*  *{margin:0;padding:0} */
 
 
 .primary-color{
