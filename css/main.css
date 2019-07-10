@@ -101,6 +101,7 @@ text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
   background-attachment: fixed;
   position: relative;
   text-align: center;
+  align-items: center;
 }
 
 .height-90{
@@ -116,7 +117,9 @@ text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
   animation-delay: 1s;
   opacity:0;
   animation-fill-mode: forwards;
-  text-align: center;
+  text-align:center;
+  align-items: center;
+
 }
 
  /* .text-center {
@@ -309,11 +312,11 @@ text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
 
 /* ###################################### */
 .menu-block { margin-bottom: 30px; }
-.menu-title { border-bottom: 3px solid #FDFDFD; margin-bottom: 36px; padding-bottom: 10px; }
+.menu-title { border-bottom: 3px solid #FDFDFD; margin-bottom: 36px; padding-bottom: 10px; color:#FDFDFD; }
 .menu-content { border-bottom: 1px solid #FDFDFD; margin-bottom: 30px; }
 .dish-img { }
 .dish-content { margin-top: 12px; margin-bottom: 40px; }
-.dish-meta { font-size: 12px; text-transform: uppercase; display: block; width: 210px; line-height: 1.7; }
+.dish-meta { font-size: 12px; text-transform: uppercase; display: block; width: 210px; line-height: 1.7; color:#FDFDFD;  }
 .dish-title { margin-bottom: 6px; font-size: 15px; text-transform: uppercase; font-weight: 500; position: relative; }
 .dish-price { position: absolute; right: 16px; top: 0px; font-size: 26px; color: #e03c23; font-weight: 500; font-family: 'Zilla Slab', serif; }
 .well-block .dish-meta { width: 100%; }
